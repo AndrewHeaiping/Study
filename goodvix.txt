@@ -1,0 +1,14 @@
+1. One Dark Theme ;主题
+2. C-family Documentation Comments ; 输入/**后回车自动添加注释的常用字段
+3. XML Tools ;写一些配置文件
+4. vim ;
+5. hexdump for VSCode ;查看二进制文件
+6. GitLens ;会显示有 git 有关的所有代码提交信息
+7. TabNine ;代码自动补全
+8. shellman ;shellman 自带各种模版，很省心
+9. Terminal ;终端很好看，好用
+10. Git Graph ;可视化git活动
+
+
+
+
