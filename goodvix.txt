@@ -12,7 +12,7 @@
 12. koroFileHeader;生成文件头部注释和函数注释的插件
 13. Todo Tree; 快速查看TODO部分
 14. vscode-icons ; 设置Vscode文件图标主题
-
+15.
 
 
 VSCode快捷键
@@ -29,5 +29,7 @@ Ctrl+Shift+- 向前跳转
 On Ubuntu Linux系统:
 Ctrl+Alt+- 向后回跳
 Ctrl+Shift+- 向前跳转
+
+
 
 
