@@ -8,7 +8,3 @@
 8. shellman ;shellman 自带各种模版，很省心
 9. Terminal ;终端很好看，好用
 10. Git Graph ;可视化git活动
-
-
-
-
